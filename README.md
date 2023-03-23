@@ -29,3 +29,9 @@ The four visualizations above all show that any way you slice it, the majority o
 ## Summary
 
 While the significance of the gender breakdown for this service is unclear, it is inarguable that unless a similar service could cater to working individuals in a relatively compact downtown area, it would struggle to find the success Citibike has. The backbone of their business is clearly customers who pay them on a subscription basis and utilize their services almost daily for basic transportation, and unless we could make our bike rental service equally attractive for people looking for an alternative way to travel besides a car, customers will likely be hard to come by. To further our understading of whether or not Des Moines could support this type of business, I'd like to see visualiztions exploring the population living in Des Moines' downtown area and also working there to see if there are people who could use these bikes as daily transportation. I'd also like to see a more general comparison of the area of New York and the area of Des Moines, given that coastal cities tend to be more compact and a Midwestern city like Des Moines might be more likely to sprawl out and thusly be a less attractive for bikers. My initial thoughts are not promising on the possibility for success, but with further consideration of how similar the working populations of New York and Des Moines are I could be convinced otherwise.
+
+### Tableau Workbook
+
+To view the visualizations in their entirety with interactive elements, click the link below:
+
+[Link to dashboard](https://public.tableau.com/app/profile/ryan.jarvis4970/viz/CitibikeAnalysis_16795390240480/CitibikeStory?publish=yes)
